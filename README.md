@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis-DSC530
 DSC530 Final Project for Fall 2018
 
+<img src="Images/EDA.png" data-canonical-src="Images/EDA.png" width="200" height="200" />
+
 # Table of contents
 
 - [Project Background](#project-background)
