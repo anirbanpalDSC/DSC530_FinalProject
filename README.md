@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 [(Back to top)](#table-of-contents)
 To execute this project, you will need the following applications 
 * Python 3 
-* Any R editor, e.g. R Studio, Jupyter or any other notebook
+* Jupyter or any other notebook or Python editor.
 
 ### Installation
 [(Back to top)](#table-of-contents)
